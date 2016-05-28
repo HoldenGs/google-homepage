@@ -1,0 +1,195 @@
+.google {
+	margin: 0 auto;
+	font-family: Arial, sans-serif;
+}
+
+
+
+
+
+#logo {
+	height:  120px;
+	margin-top: 89px;
+	padding-top: 109px;
+	text-align: center;
+}
+
+
+
+
+
+.searchbar {
+	margin: 0 auto;
+}
+
+.interaction {
+	width: 100%;
+	text-align: center;
+	margin: 0 auto;
+	display: block;
+	top: 311px;
+}
+
+.searchform {
+	text-align: center;
+	margin: 0 auto;
+	width: 833px;
+	height: 129px;
+}
+
+.search {
+	text-align: center;
+}
+
+#buttons {
+	margin: 0 auto;
+	text-align: -webkit-center;
+	padding-top: 20px;
+}
+
+#search {
+	height: 35px;
+	width: 560px;
+}
+
+input[type="text" i] {
+	font-size: 16px;
+	border: 1px solid #d9d9d9;
+}
+
+input[type="text" i]:hover {
+	border: 1px solid #b9b9b9;
+	border-top-color: #a0a0a0;
+}
+
+input[type="submit" i] {
+	margin: 11px 4px;
+	padding: 0 16px;
+	-webkit-appearance: none;
+	cursor: default;
+	font-weight: bold;
+	font-size: 13px;
+	color: #757575;
+	height: 36px;
+	line-height: 27px;
+	border: 1px solid #F2F2F2;
+	border-radius: 2px;
+	background-color: #F2F2F2;
+}
+
+input[type="submit" i]:hover {
+	color: #000;
+	border: 1px solid #c6c6c6;
+}
+
+#speech {
+	background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAACrElEQVR42u2Xz2sTQRSAX8VSb1K8iNqKooJH2Ux6Ksn+iPQqxZMIehJB0do/IMhmQWsvHr2KSEGk0tSLIoWIYNUKij20F2/N7iaUZnYT0kYzzhMKs0HDJiTdLcwHDwKZSd63781LBiQSSW9JZdkhzfKm1Rz9mjZp/W9YdEU3vXv4HsQZ40FtNG36q5rls//Ej4tmbSS2T15Mvp3ExOPmEMQNbBtMMEyoljcFcQN7PqyAlqNfIG7gYQ0tYNIaxA1MrJPY3wImbUqBKAXSFv0tBSIVMOkvKRDtGKWN/T6FdqRAxFNoWwpEPIXqUqBT6ALU/UVgu8GW4GD3f6f9TRDYNJTDrk7YbtiqUumHwIYoUJuHERDAS0r4CvgFECgbY+cFAR7KT+g1POmCKFDNw6WggHc3fBtVb4CAoyauBgXIG+g1Xh5mRAGah6cggBd11fK/h7lOprIs0H6uRl6KAo5O7kOv4QmPiwJ4Jqqv4FiwCtXjvD2+tRmfK6kZ/ygI2HritK0rDVGgrClJ6DWMwYC/AGuCBMYcIC2V0CzvjmbRz3j3xUjn6CfeYreUJ2wQkGD75INPX1mFfsEFrrcIYCvdhC4paWQakxajpJMr0C9YFg54i7AsClRmh9/xnr0NHcInzZStk2aLwAcGMAD9pPIazvFKVDD5rdnhJeHLX5RTyRPQHpz5o66emMc9wdlPtvA8wF7Aq2BUHh1525qEo5JtR1WeOXpickO9cJIpyuD6xJmhYiZ5ytWSl3mlnuOaf+2zDaLDXmJrSgZ/MYVEugo+gSh+FkSBa4yd5Ul87DZ5XpFl/AyIEjzYjkau8WqshU2cr13HPbgX4gJOD97n465GZlyVvC9mSKloKI2iTnbwNT+gBX54H+IaXAtxJzE3ycSAFqSAFJACUkAikXD+AHj5/wx2o5osAAAAAElFTkSuQmCC);
+	background-size: 24px 24px;
+	display: inline-block;
+	height: 23px;
+	width: 20px;
+	margin-left:  -35px;
+	margin-bottom:  -5px;
+}
+
+
+
+
+
+
+.navbar {
+	position: absolute;
+	margin-top:  -295px;
+	display:  block;
+	width: 100%;
+	font-size: 13px;
+	text-align: right;
+}
+
+.navlinks {
+	float: right;
+	text-align: right;
+	padding-right: 30px;
+}
+
+ a {
+	color: #000;
+	text-decoration:  none;
+	opacity: .75;
+}
+
+a:hover {
+	text-decoration:  underline;
+	opacity: .85;
+}
+
+#holden {
+	color: #808080;
+}
+
+#gmail {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+#dots {
+	float: right;
+	opacity: .55;
+	display: inline-block;
+	background-image: url(http://www.englewoodschools.net/cms/lib8/CO01900647/Centricity/Domain/1009/GoogleAppsIcon.png);
+	background-size:  24px 24px;
+	width: 24px;
+	height: 24px;
+	margin-left: 15px;
+	margin-top: -4px;
+}
+
+#dots:hover {
+	opacity: 1;
+}
+
+
+
+footer {
+	color: #666;
+	min-width: 980px;
+	display: block;
+	font-size: 10pt;
+	height: 40px;
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	background-color: #f2f2f2;
+	border-top: 1px solid #e4e4e4;
+
+}
+
+#bottomleft {
+	margin-top:  12px;
+	color: #666;
+	float: left;
+	text-align: left;
+}
+
+span > a {
+	margin: 0;
+}
+
+#bottomleft > a {
+	color: #666;
+	padding-left: 27px;
+}
+
+#bottomright > a {
+	color: #666;
+	padding-right: 27px;
+}
+
+#bottomright {
+	margin-top:  12px;
+	float: right;
+	text-align: right;
+}
